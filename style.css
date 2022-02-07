@@ -4,12 +4,12 @@ body{
 	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/300px-Animal_diversity.png")
 }
 
-h1{
+.english{
 	color:red;
 	background-color:white;
 }
 
-p{
-	color:blue;
-	background-color:white;
+.turkish{
+	color:white;
+	background-color:red;
 }
